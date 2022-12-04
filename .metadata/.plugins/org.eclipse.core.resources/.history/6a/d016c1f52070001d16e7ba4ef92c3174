@@ -1,0 +1,22 @@
+package com.door.configuration;
+
+import org.springframework.context.annotation.Configuration;
+
+/**
+ * Configuration class for securing URLs using oauth2 resource server config
+ * @author Jorge
+ *
+ */
+@Configuration
+public class ResourceServerSecurityConfig {
+	
+	/*public SecurityWebFilterChain configureResourceServer(SererHttpSecurity httpSecurity) throws Exception {
+		
+		return httpSecurity
+				.authorizeExchange()
+		
+	}*/
+	
+	
+	
+}
